@@ -3,7 +3,7 @@
  * @param Integer[] $nums
  * @param Integer $k
  * @return NULL
- * 旋转数组
+ *  旋转数组
  */
 function rotate(&$nums, $k) {
     $c = count($nums);
