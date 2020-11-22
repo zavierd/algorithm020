@@ -2,7 +2,7 @@
 /**
  * @param Integer[] $nums
  * @return Integer
- * 删除排序数组中的重复项
+ *  删除排序数组中的重复项
  */
 function removeDuplicates(&$nums) {
     $count = count($nums);
